@@ -1,5 +1,5 @@
 # DDDSouthWest2018
-## Give it a REST presentation from DDDSouthWest 2018
+## Give it a REST presentation from [DDDSouthWest 2018](https://dddsouthwest.com/)
 
 In the past five years at Huddle we've been updating out public API to be more restful, more tolerant, and to handle the move from a monolithic application to one based on microservices with async operations.
 
